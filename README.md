@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kazuhisa Ogawa 👋
 
-<!--
-**kazuogawa/kazuogawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & Machine Learning Engineer based in Tokyo, Japan.
 
-Here are some ideas to get you started:
+I specialize in building scalable web applications,
+ML/LLM-powered systems, and AI-driven developer workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- **Full-stack Development**
+  - Backend: Go, Python, FastAPI
+  - Frontend: TypeScript, React, Next.js
+  - Cloud: GCP, Docker, Kubernetes
+
+- **Machine Learning & LLM Systems**
+  - Computer Vision, Deep Learning
+  - LLM Applications, RAG, AI Agents
+  - Model Evaluation, LLM-as-a-Judge
+
+- **Developer Productivity & AI Automation**
+  - AI Agent Orchestration
+  - Automated Development Workflows
+  - AI-assisted Software Engineering
+  - CI/CD and Developer Tooling
+
+## 🔬 Current Interests
+
+- Autonomous Software Engineering
+- Multi-Agent Orchestration
+- AI-driven Development Workflows
+- LLM Evaluation & Observability
+- Improving Engineering Productivity
+
+## 🤝 Connect
+
+I'm interested in collaborating on projects involving
+AI agents, LLM systems, developer tooling,
+and scalable web applications.
