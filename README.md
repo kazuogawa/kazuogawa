@@ -5,6 +5,9 @@ Full-stack & Machine Learning Engineer based in Tokyo, Japan.
 I specialize in building scalable web applications,
 ML/LLM-powered systems, and AI-driven developer workflows.
 
+🌐 [Portfolio](https://kazuogawa.github.io/portfolio/)
+📝 [Zenn](https://zenn.dev/kazz_ogawa)
+
 ## 🚀 What I Do
 
 - **Full-stack Development**
