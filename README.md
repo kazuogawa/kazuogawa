@@ -11,18 +11,15 @@ ML/LLM-powered systems, and AI-driven developer workflows.
 ## 🚀 What I Do
 
 - **Full-stack Development**
-  - Backend: Go, Python, FastAPI
+  - Backend: Go, Scala, Python, FastAPI
   - Frontend: TypeScript, React, Next.js
-  - Cloud: GCP, Docker, Kubernetes
+  - Cloud: GCP, AWS, Docker, Kubernetes
 
 - **Machine Learning & LLM Systems**
   - Computer Vision, Deep Learning
-  - LLM Applications, RAG, AI Agents
   - Model Evaluation, LLM-as-a-Judge
 
 - **Developer Productivity & AI Automation**
-  - AI Agent Orchestration
-  - Automated Development Workflows
   - AI-assisted Software Engineering
   - CI/CD and Developer Tooling
 
